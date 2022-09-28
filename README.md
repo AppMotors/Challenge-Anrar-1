@@ -12,6 +12,6 @@ criar soluções inovadora para transporte de pessoas usando cloud compunting
 
 Arquitetura do AppMotors!
 
-![fluxo-do-appmotors](Slide6.jpg)
+![image](https://user-images.githubusercontent.com/80016470/192906070-a5a16dd2-ea76-4476-8372-15bdc389f99a.png)
 
 ![image](https://user-images.githubusercontent.com/80016470/191867463-2989d464-f018-4916-9668-48cc7a9c4c34.png)
